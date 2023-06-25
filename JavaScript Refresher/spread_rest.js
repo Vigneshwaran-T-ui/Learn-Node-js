@@ -41,8 +41,8 @@
 
 /////////////////////////////////////// Rest operator ////////////////////////////////////////////
 
-const arrayEle = (...args) => {
-    return args;
-}
-
-console.log(arrayEle(1, 'One', 2, 'Two'));
+// const arrayEle = (...args) => {
+//     return args;
+// }
+// console.log(arrayEle(1, 'One', 2, 'Two'));
+// Output:  [ 1, 'One', 2, 'Two' ];
